@@ -24,6 +24,6 @@ API’s and SDK’s are often used closely together due their functionality bein
 
 The SDK in IOS allows for many functions that will be more beneficial for customer use and more for customer satisfaction such as ‘Audio Recording’, ‘Video Playback’ whilst allowing more technical functions such as security and allowing threads to be used within the processing of the system functions. By utilising all of these and adding their functionality into the system, the functionality and overall quality of the system increases, this SDK is one of the examples of where the tools and components have allowed an operating system to increase in functionality.
 
-
+When looking at the relationship between API’s and SDK’s, the main thing to remember is how they interact with each other. Since a SDK is a set of tools and components that can allow programmers to access more functions, it is quite common for the SDK to actually contain an API within them. Having API’s within them means that some API’s belong to SDK’s, but remember that an SDK cannot be part of an API, it is only the other way around.
 
 
