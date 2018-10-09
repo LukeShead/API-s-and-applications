@@ -1,7 +1,7 @@
 # Programming API's, SDK's and all between.
 
 
-## 1.0 API's, what are they and what do they do?
+## 1.0 API's, Descriptions and Functionality
 
 API stands for Application programming interface and is one of the most used tools when programmers want to build any application or program a solution for a problem. API's come with an almost incomprehensible amount of variation and each one suited to deal with certain tasks that the programmer would otherwise need to do themselves. As well as this each one will have functions that help a programmer create whatever the API is more suited to help build. 
 
