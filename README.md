@@ -27,3 +27,6 @@ The SDK in IOS allows for many functions that will be more beneficial for custom
 When looking at the relationship between API’s and SDK’s, the main thing to remember is how they interact with each other. Since a SDK is a set of tools and components that can allow programmers to access more functions, it is quite common for the SDK to actually contain an API within them. Having API’s within them means that some API’s belong to SDK’s, but remember that an SDK cannot be part of an API, it is only the other way around.
 
 
+
+
+
