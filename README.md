@@ -36,7 +36,7 @@ The limit to API's is almost endless and each API has a large multitude of funct
 
 API's are commonly used to help design applications, this is because of how much functionality they can add towards the development of an application or software by making the project easier to develop. As well as offer tools to help develop software, it can also be used to extend a product in order to add functionality to it whilst also allowing it to keep the fundamentals of what made the software. Having this option to add functions to a software means that people are able to keep it fresh and make it more enticing by having more uses out of one software.
 
-Extending a software can be done in many different ways.
+Extending a software can be done for many different reasons ranging from 
 
 
 
