@@ -1,4 +1,4 @@
-# Programming API's, SDK's and all between.
+# API Glossary
 
 
 ## 1.0 API's, Descriptions and Functionality
