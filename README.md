@@ -29,6 +29,15 @@ The SDK in IOS allows for many functions that will be more beneficial for custom
 When looking at the relationship between API’s and SDK’s, the main thing to remember is how they interact with each other. Since a SDK is a set of tools and components that can allow programmers to access more functions, it is quite common for the SDK to actually contain an API within them. Having API’s within them means that some API’s belong to SDK’s, but remember that an SDK cannot be part of an API, it is only the other way around.
 
 
+### Examples of API's for a range of uses
+
+When using an API, the type of API used all depends on the kind of task that you want it to perform, API's have a massive range of functionality thanks to how many there are, if a developer needs to build an application which uses functions to tell what the weather is, then the developer may use an API such as 'Dark Sky API', this API allows the user to access forecasts, data on past events, weather alerts and much more by integrating the API within the program. As well as this, the developer could also choose to use the 'Openweathermap', once again this API can allow the developer to add all the functionality that they would need to create a successful program which has functions for either showing the current conditions of the weather, to showing when their is an alert, this is why API's are used throughout development and programming.
+
+Whilst building a weather program with the API is impressive, the uses of API's go much further than that, another example of using API's to benefit programming is using a program for social media such as Instagram or Facebook, these types of programs can be used for enhanced profile searching, database checking and reviewing or just real time updating on websites and many more. In order to make this easier for the developer, they can use API's such as 'Instagram's API' which would allow the developer to have notifications for posts uploaded to their site in real time for multiple accounts at once. As well as this the developer may choose to use the 'Parse' API, this is an API utilised by Facebook in order to push notifications, allow functions for user authentication and other benefits such as File storage. Having these types of API's integrated within a program can allow for the program to successfully complete all the tasks assigned to it, all while adding user experience to the program allowing it to be easier to access and safer as well.
+
+Having API's for almost all uses and ranges, one of the more commercial uses is for marketing and commonly Stock trading, API's allow for real time updates on the latests changes events and availabilty of products
+
+
 
 ## Functionality of API's
 
@@ -55,6 +64,8 @@ Extending a software can be done for many different reasons ranging from
 
 
 
+## References
 
+KRISTOPHER SANDOVAL (2016). Nordic Apis [online]. Available from: <https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/>. [Accessed 27/11/2018].
 
-
+Parse [online]. (2013). Available from: <https://parseplatform.org/>. [Accessed 27/11/2018].
