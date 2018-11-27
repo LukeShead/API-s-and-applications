@@ -28,7 +28,7 @@ The SDK in IOS allows for many functions that will be more beneficial for custom
 
 When looking at the relationship between API’s and SDK’s, the main thing to remember is how they interact with each other. Since a SDK is a set of tools and components that can allow programmers to access more functions, it is quite common for the SDK to actually contain an API within them. Having API’s within them means that some API’s belong to SDK’s, but remember that an SDK cannot be part of an API, it is only the other way around.
 
-SDK's are built from a series of API's this is because...
+SDK's are built from a series of API's this is because SDK's are made to provide the user with a large variety of tools, interfaces and functionality in order to use in development. API's allow the user to have a larger variety of functions in their program by letting them use the functions that are within them. SDK's will use multiple API's in order to add an even greater amount of tools for the user to implement within their program. API's have all the information for a certain type of problem, having multiple API's within a system allows for all of those functions to be available to the user.
 
 
 ### 1.3 Assessment of API's for a range of uses
