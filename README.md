@@ -30,17 +30,15 @@ When looking at the relationship between API’s and SDK’s, the main thing to 
 
 SDK's are built from a series of API's this is because SDK's are made to provide the user with a large variety of tools, interfaces and functionality in order to use in development. API's allow the user to have a larger variety of functions in their program by letting them use the functions that are within them. SDK's will use multiple API's in order to add an even greater amount of tools for the user to implement within their program. API's have all the information for a certain type of problem, having multiple API's within a system allows for all of those functions to be available to the user.
 
-
 ### 1.3 Assessment of API's for a range of uses
 
-When using an API, the type of API used all depends on the kind of task that you want it to perform, API's have a massive range of functionality thanks to how many there are, if a developer needs to build an application which uses functions to tell what the weather is, then the developer may use an API such as 'Dark Sky API', this API allows the user to access forecasts, data on past events, weather alerts and much more by integrating the API within the program. As well as this, the developer could also choose to use the 'Openweathermap', once again this API can allow the developer to add all the functionality that they would need to create a successful program which has functions for either showing the current conditions of the weather, to showing when their is an alert, this is why API's are used throughout development and programming.
+When using an API, the type of API used all depends on the kind of task that you want it to perform, API's have a massive range of functionality thanks to how many there are, if a developer needs to build an application which uses functions to tell what the weather is, then the developer may use an API such as 'Dark Sky API', this API allows the user to access forecasts, data on past events, weather alerts and much more by integrating the API within the program. As well as this, the developer could also choose to use the 'Openweathermap', once again this API can allow the developer to add all the functionality that they would need to create a successful program which has functions for either showing the current conditions of the weather, to showing when there is an alert, this is why API's are used throughout development and programming.
 
 Whilst building a weather program with the API is impressive, the uses of API's go much further than that, another example of using API's to benefit programming is using a program for social media such as Instagram or Facebook, these types of programs can be used for enhanced profile searching, database checking and reviewing or just real time updating on websites and many more. In order to make this easier for the developer, they can use API's such as 'Instagram's API' which would allow the developer to have notifications for posts uploaded to their site in real time for multiple accounts at once. As well as this the developer may choose to use the 'Parse' API, this is an API utilised by Facebook in order to push notifications, allow functions for user authentication and other benefits such as File storage. Having these types of API's integrated within a program can allow for the program to successfully complete all the tasks assigned to it, all while adding user experience to the program allowing it to be easier to access and safer as well.
 
-Having API's for almost all uses and ranges, one of the more commercial uses is for marketing and commonly Stock trading, API's allow for real time updates on the latests changes events and availabilty of products
+Having API's implemented can be used for almost all uses and ranges, one of the more commercial uses is for marketing and commonly Stock trading, API's allow for real time updates on the latest changes, events and availability of products, for companies that earn their money by investing within the stock trade, API's can be used to create software that will allow them to do some of the more tedious or difficult tasks whilst also being able to do this on a larger scale, for example one person may need to keep up with recent events on the world, instead of having to check each event themselves and potentially miss events, a program could be implemented that automatically shows events in the world, this can also be done at a much greater speed than a human doing it.
 
-Most of the time API's are built for set functions, for example when looking at 'Dark Sky API' it is built for adding weather functionality to a program 
-
+Most of the time API's are built for set functions, for example when looking at 'Dark Sky API' it is built for adding weather functionality to a program by giving real time updates on multiple areas for weather, this can be done to any form of program, the program does not need to be a weather application however due to the API it can have the functionality to have weather implemented within the program. API's are able to take many different uses and functionality and use them in order to make an application more accessible for more users, this is why API's have such a wide range of uses.
 
 
 ## 1.4 Functionality of API's
@@ -49,28 +47,10 @@ The limit to API's is almost endless and each API has a large multitude of funct
 
 ### 1.5 Designing and extending using API's 
 
-API's are commonly used to help design applications, this is because of how much functionality they can add towards the development of an application or software by making the project easier to develop. As well as offer tools to help develop software, it can also be used to extend a product in order to add functionality to it whilst also allowing it to keep the fundamentals of what made the software. Having this option to add functions to a software means that people are able to keep it fresh and make it more enticing by having more uses out of one software.
+API's are commonly used to help design applications; this is because of how much functionality they can add towards the development of an application or software by making the project easier to develop. As well as offer tools to help develop software, it can also be used to extend a product in order to add functionality to it whilst also allowing it to keep the fundamentals of what made the software. Having this option to add functions to a software means that people are able to keep it fresh and make it more enticing by having more uses out of one software.
 
 Extending a software can be done for many different reasons, most commonly companies will update their applications with many different functions to keep it within the current market and allow it to still be popular with the target demographic, the software that is created today can easily become outdated very quickly due to always changing events, for example crypto currency is a very common example of how the market can change so drastically, for companies to still be able to get the sales they need and continue to appeal to the market, applications that they own are updated. API's already hold a lot of the information and tools needed to add functions to applications being developed, they can also add a lot of functionality to applications that are already developed and it is done in a very similar way.
 
-Good examples of a company that updates it's applications is Microsoft with Windows 10 and Apple with MACOS, these companies are always updating their software in order to keep their software attractive in comparison to their competitors, having more functionality and better ease of use for users of the software 
+Good examples of a company that updates its applications is Microsoft with Windows 10 and Apple with MACOS, these companies are always updating their software in order to keep their software attractive in comparison to their competitors, having more functionality and better ease of use for users of the software. Microsoft extends their application by adding more features to it, for example in Windows 10, the AI Cortana was created, this new feature added a way to access certain areas through voice recognition. Having this extension onto their operating system meant that potential customers could now be more enticed to buy the product if their main issue was ease of access to some areas.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## References
-
-KRISTOPHER SANDOVAL (2016). Nordic Apis [online]. Available from: <https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/>. [Accessed 27/11/2018].
-
-Parse [online]. (2013). Available from: <https://parseplatform.org/>. [Accessed 27/11/2018].
+Whilst Windows 10 offered a wide variety of changes and functions, it can still be extended by using an API, since API's offer such a wide variety of uses and with all of them being easily accessible, the Windows OS could be extended by using this, for example by using an API based around social media, Windows could have an in built notification area specifically for linked Discord, Instagram or Twitter accounts, this would be beneficial for users that are very closely tied to their social media as it would mean that they could operate as they would normally on the system without having to check for updates but have them appear on the front of the screen. Extending this way is only one of the ways that they could be extended however each way could cater towards a certain type of group and therefore benefit the software.
